@@ -73,7 +73,7 @@ boton_ayuda=tk.Button(ventana, text='Ayuda', command=analizar, height=3, width=1
 boton_ayuda.configure(bg='skyblue')
 boton_ayuda.place(x=250,y=50)
 
-boton_usuario=tk.Button(ventana, text='Manual de Usuario', command=analizar, height=3, width=11)
+boton_usuario=tk.Button(ventana, text='Manual de Usuario', command=analizar, height=3, width=16)
 boton_usuario.configure(bg='skyblue')
 boton_usuario.place(x=250,y=270)
 
